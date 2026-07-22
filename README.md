@@ -37,7 +37,7 @@ Hi, I am **Vedant**. I thrive on trying to solve complex layout puzzles, optimiz
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aur
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vedantmb07&layout=donut&langs_count=4&hide_values=true&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=vedantmb07&layout=donut&langs_count=4&hide_values=true&theme=aura)
 
 <div align="center">
