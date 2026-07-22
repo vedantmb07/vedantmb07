@@ -13,7 +13,10 @@
 
 ### 🙋‍♂️ About Me
 
-Hi, I am **Vedant**. I thrive on trying to solve complex layout puzzles, optimizing web accessibility, and continuously expanding my technical toolkit. Currently, I am focused on building seamless user experiences while looking for opportunities to contribute to dynamic engineering teams.
+Hi, I am **Vedant**. I thrive on trying to solve various puzzles, optimizing web accessibility, and continuously expanding my technical toolkit. Currently, I am focused on building seamless user experiences while looking for opportunities to contribute to dynamic engineering teams. 
+
+I work towards building more projects and improving my skillset by learning new languages and open to work on new ideas which pique my interest.
+
 
 ---
 
