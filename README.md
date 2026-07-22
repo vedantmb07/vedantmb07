@@ -38,7 +38,7 @@ Hi, I am **Vedant**. I thrive on trying to solve complex layout puzzles, optimiz
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vedantmb07&show_icons=true&theme=tokyonight&hide_border=true" alt="Vedant's GitHub Stats" />
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=vedantmb07&show_icons=true&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura)" alt="Vedant's GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmb07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
