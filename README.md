@@ -13,14 +13,8 @@
 
 ## 💫 About Me
 
-- 🏫 **Academics:** Pursuing Computer Engineering with a strong focus on Data Structures & Algorithms, Database Management Systems, and Distributed Systems.
-- 🛠️ **What I Do:** Build full-stack web applications, construct custom blockchain prototypes, design smart contract workflows, and containerize cloud workloads.
-- 🚀 **Projects Highlights:**
-  - **EkamVistar (PS-02):** Designed Hyperledger Fabric smart contract architecture for cross-border settlement platforms using ISO 20022 integration and private data collections.
-  - **Custom Blockchain in Java:** Built a fundamental blockchain implementation from scratch to understand cryptographic hashing, block linking, and consensus concepts.
-  - **WorkSetu:** Modern mobile platform designed to bridge local skilled service providers with households.
-  - **Full-Stack & Utilities:** Developed web utilities and apps including a personal portfolio, note-taking application, and task management system.
-- 🎯 **Goals:** Master cloud-native DevOps practices, web3/blockchain engineering, and algorithmic problem-solving.
+I am a software developer with a strong passion for understanding how technology works behind the scenes. I enjoy building applications, working with databases, and exploring modern tools like blockchain. For me, coding is all about solving real problems with clean, reliable, and efficient code.
+I love learning new things, tackling challenging projects, and working in fast-paced environments like hackathons. Whether I'm building web applications or learning new frameworks, I am always looking for ways to grow my skills and build practical, meaningful solutions.
 
 ---
 
