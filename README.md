@@ -41,9 +41,9 @@ I love learning new things, tackling challenging projects, and working in fast-p
 
 ## 🧠 Currently Learning
 
-- ⛓️ **Blockchain Technologies:** Deepening knowledge in decentralized systems, smart contract architecture, and Hyperledger Fabric / Ethereum development.
 - 🔐 **Authentication & Security Basics:** Exploring OAuth 2.0, JWT, session management, and secure identity protocols.
 - 🧩 **Data Structures & Algorithms:** Practicing core algorithms (Arrays, Binary Search, Sliding Window, Graphs, Trees) in **Java** on LeetCode.
+
 ### 📊 GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=vedantmb07&rank_icon=github&show_icons=true&include_all_commits=true&theme=aura)
